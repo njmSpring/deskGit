@@ -1,0 +1,24 @@
+%-5d 向上转型以new 的子类为主？ 3元运算符 xftp vmware workstation  where java
+difference：低层更倾向于本能，高层思想，控制，即为自律；心流，熵增，演化，沉浸。or自我毁灭过程；懊悔过去，忧虑未来，故活在当下。
+stack overflow学？
+java+selenium
+txykd13819040191
+040191
+DHCP服务器：关闭
+netsh wlan show drivers
+124.160.154.30
+https://kaifa.baidu.com/
+Apifox = Postman + Swagger + Mock + JMeter
+JDK安装、IDEA破解： https://pan.baidu.com/s/16P9f01hg6g1MyuDddGQMtQ 提取码：6666  
+-javaagent:E:\idea2022\IntelliJ IDEA 2022.1.3\bin\jetbrains-agent.ja
+局部变量必须初始化
+msinfo32
+局部变量的局部体现在方法栈帧的临时性
+h&length-1等效于h%length取余数？前提为2的n次
+throw异常抛出至顶层何如
+netsh 命令 进入 interface ipv6 中，使用 show joins 命令，既可以查看对应接口的实际标
+alter user 'root'@'localhost' identified by 'root' password expire never;
+alter user 'root'@'localhost' identified with mysql_native_password by 'root';
+mstsc
+查看tomcat的所使用的端口 netstat -ano|findstr 8080
+安全策略 gpedit.msc
